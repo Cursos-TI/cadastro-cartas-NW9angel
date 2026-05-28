@@ -32,7 +32,7 @@ int main () {
     printf("Escolha o código da carta (ex: A01) \n");
     scanf("%s", &código1);
 
-    printf("Escolha o nome da Cidade \n");
+    printf("Escolha o nome da sua Cidade \n");
     scanf("%s", &Cidade1);
 
     printf("Digite o número da população de sua Cidade \n");
@@ -59,7 +59,7 @@ int main () {
     printf("Escolha o código da carta (ex: A01) \n");
     scanf("%s", &código2);  
 
-    printf("Escolha o nome da Cidade \n");
+    printf("Escolha o nome da sua Cidade \n");
     scanf("%s", &Cidade2);
 
     printf("Digite o número da população de sua Cidade \n");
